@@ -1,4 +1,4 @@
-# 20 Day Data Science Roadmap
+# Data Science Roadmap
 
 This repository tracks my journey learning Data Science.
 
